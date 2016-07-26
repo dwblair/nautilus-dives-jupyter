@@ -8,5 +8,5 @@ Notebook files have a '.ipynb' extension, and can be viewed in Jupyter.  In orde
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dwblair/nautilus-dives-jupyter)
 
+[Binder](http://binder.org) is a service for providing live, temporary instances of Jupyter notebooks online. 
 
-(Note: to refresh the Binder instance, go [here](http://mybinder.org/status/dwblair/nautilus-dives-jupyter) and click on "rebuild".)

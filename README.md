@@ -1,6 +1,6 @@
 # nautilus-dives-jupyter
 
-This repository contains sensor data from recent E/V Nautilus dives, and associated [Jupyter](http://jupyter.org) notebooks to enable easy analysis of these datasets.
+This repository contains sensor data from recent [E/V Nautilus](http://nautiluslive.org) dives, and associated [Jupyter](http://jupyter.org) notebooks to enable easy analysis of these datasets.
 
 [Jupyter](http://jupyter.org) is an open source system that allows for easy use of Python, R and other scientific computing languages, using the browser as the 'display' front-end.   
 
